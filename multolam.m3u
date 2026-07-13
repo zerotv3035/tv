@@ -1,7 +1,7 @@
-#EXTM3UDE:
-#EXTINF:-1 group-title="Multikanal" tvg-logo="http://asilmedia.org/uploads/mini/fullstory/8f/c3d33db4fb0110ef75b429f9071acb.jpg",—Ó˛ÁÃÛÎ¸ÚÙËÎ¸Ï
+#EXTM3U:
+#EXTINF:-1 group-title="Multikanal" tvg-logo="http://asilmedia.org/uploads/mini/fullstory/8f/c3d33db4fb0110ef75b429f9071acb.jpg",√ë√Æ√æ√ß√å√≥√´√º√≤√¥√®√´√º√¨
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Multikanal" tvg-logo="http://asilmedia.org/uploads/mini/fullstory/8f/c3d33db4fb0110ef75b429f9071acb.jpg",◊ËÔ Ë ƒÂÈÎ
+#EXTINF:-1 group-title="Multikanal" tvg-logo="http://asilmedia.org/uploads/mini/fullstory/8f/c3d33db4fb0110ef75b429f9071acb.jpg",√ó√®√Ø √® √Ñ√•√©√´
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 #EXTINF:-1 group-title="Multkino" tvg-logo="https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/5/3/9/8355935/0f692538ff8ac00dcf7dbbf7a5717f52.jpg",Tom va jerry 2021
@@ -874,7 +874,7 @@ https://files.uzbeklar.biz/film3/jaxldor-qushchalar-1.mp4
 https://files.uzbeklar.biz/film3/maymuncha.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625927145-966784602-1.jpg" group-title="Mult",O'rmon qo'riqchilari
 https://files.uzbeklar.biz/film3/ormon-qoriqchilari.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926856-812042088-1.jpg" group-title="Mult",To‚Äôlqinlar uzra parvoz
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926856-812042088-1.jpg" group-title="Mult",To√¢¬Ä¬ôlqinlar uzra parvoz
 https://files.uzbeklar.biz/film3/tolqinlar-uzra.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926775-868244907-1.jpg" group-title="Mult",G'ozlar Oqqushlar
 https://files.uzbeklar.biz/film3/gozlar-oqqushlar.mp4
@@ -962,7 +962,7 @@ https://e.uzbeklar.biz/chippolino1961.mp4
 https://files.uzbeklar.biz/film3/mayaning-yangi-s.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1623254890-966558547-1.jpg" group-title="Mult",Okko Mexmonxonasi
 https://files.uzbeklar.biz/film3/okkoanime.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622779064-962001133-1.jpg" group-title="Mult",Kiki va eltuv –•izmati
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622779064-962001133-1.jpg" group-title="Mult",Kiki va eltuv √ê¬•izmati
 https://files.uzbeklar.biz/film3/kiki-anime.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622778925-1098300727-1.jpg" group-title="Mult",Ko'rfaz
 https://files.uzbeklar.biz/film3/korfaz.mp4
@@ -1444,9 +1444,9 @@ https://www.dropbox.com/scl/fi/jcsf3o1mr1q8jghe3s8nv/Assalomu-alaykum-do-stlar-2
 https://www.dropbox.com/scl/fi/yfbsx0ojricwcwcdwtycz/Bilimdonlar-bellashuvi-1-qism.mp4?rlkey=ald3x36fg3e999g1710u0qkrq&dl=1
 #EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Bilimdonlar bellashuvi 2-qism
 https://www.dropbox.com/scl/fi/x0r8yzg1scmvld67v31uj/Bilimdonlar-bellashuvi-2-qism.mp4?rlkey=repvoiqchtoc9cbqwl7o8froq&dl=1
-#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",DÓ'stlar uchun qahramon bo'lish 1-qism
+#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",D√Æ'stlar uchun qahramon bo'lish 1-qism
 https://www.dropbox.com/scl/fi/v4odopm9apbc8dd1azhj7/D-stlar-uchun-qahramon-bo-lish-1-qism.mp4?rlkey=9dj7412f0sz5rlbfl6beooxch&dl=1
-#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",DÓ'stlar uchun qahramon bo'lish 2-qism
+#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",D√Æ'stlar uchun qahramon bo'lish 2-qism
 https://www.dropbox.com/scl/fi/q7xmhfo3zd543hj2x60w0/D-stlar-uchun-qahramon-bo-lish-2-qism.mp4?rlkey=t8h5ab76fmbwtdhtd3weaq1xk&dl=1
 #EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Hafizning siri nimada 1-qism
 https://www.dropbox.com/scl/fi/5d6bsdsiwsulox7o0vli8/Hafizning-siri-nimada-1-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=vyckch4ybs24zmpx4qwb4ocfg&dl=1
@@ -1524,9 +1524,9 @@ https://www.dropbox.com/scl/fi/ku7nz5e6jh0mylhf6tq5l/Varraklar-jangi-2-qism.-Haf
 https://www.dropbox.com/scl/fi/cqvp92eoik08zcrpdzaim/Xazinalarni-topaylik-1-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=4k7hztmpnx1ebr63w9luu73dm&dl=1
 #EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Xazinalarni topaylik 2-qism
 https://www.dropbox.com/scl/fi/ylcea3ra3elkx82gdidl0/Xazinalarni-topaylik-2-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=xc7xnk8aaz6y840qivc9331kb&dl=1
-#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Yo'qÓlgan hamyonning javobgarligi 1-qism
+#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Yo'q√Ælgan hamyonning javobgarligi 1-qism
 https://www.dropbox.com/scl/fi/w6itbgdvcy1vve42j6qul/Yo-q-lgan-hamyonning-javobgarligi-1-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=5bs8v0nhpxuezwq6ek94s8nfa&dl=1
-#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Yo'qÓlgan hamyonning javobgarligi 2-qism
+#EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Yo'q√Ælgan hamyonning javobgarligi 2-qism
 https://www.dropbox.com/scl/fi/19skl5vz7iez3of1qjrmj/Yo-q-lgan-hamyonning-javobgarligi-2-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=cia555klj77ikh09kl0kiutu1&dl=1
 #EXTINF:-1 group-title="ZeroTV Mult Hafiz va Hafiza (uzbek tilida)" tvg-logo="https://dl.dropbox.com/s/pnssd1jz4anwqva5mmnyv/ZHvH.jpg?rlkey=gkytan6ps02oxlzjy6b9zrcue",Yulduzlar qayerdan paydo bo'lgan 1-qism
 https://www.dropbox.com/scl/fi/bioyp2k64d72tg8350rpz/Yulduzlar-qayerdan-paydo-bo-lgan-1-qism.-Hafiz-va-Hafiza-Islomiy-multfilm.mp4?rlkey=krv06u1rarwzbcjd1r94pb89a&dl=1
