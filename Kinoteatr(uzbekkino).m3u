@@ -1,4 +1,26 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://files.itv.uz/uploads/content/poster/2023/10/03/ec84c2e5bd4457574a00dda150d627cd-q-700x1002.jpeg",Chinor tagidagi duel (1979y)
+https://www.dropbox.com/scl/fi/v42xtto8fi7op0sghes1s/Chinor-tagidagi-duel.mp4?rlkey=iylqyfg6xfum3mab4d7vgsk5x&st=tjzg9wvt&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://files.itv.uz/uploads/content/poster/2025/03/14/9ae545286dba7faafd7e6d69e98cd417-q-350x501.jpeg",Maftuningman(1959)
+https://www.dropbox.com/scl/fi/0y7cob1if4jzisv00odcm/Maftuningman.mp4?rlkey=18w69qmy3s4829uz0fvyvly81&st=ulvhca25&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE2ZDNiYTAtYTczMS00MmNkLThmZjctNmM0MzUyNThlNmJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Mahallada duv-duv gap(1960y) 
+https://www.dropbox.com/scl/fi/ag16nw37bpt7gybih3hm4/Mahallada-duv-duv-gap.mp4?rlkey=d7rxj6agcrf1jepxkmwr7stg1&st=wtmy9p69&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://files.itv.uz/uploads/content/poster/2025/06/24/6e2e78503a15304f9ebd5f89021c160f-q-700x1002.jpeg", Yor-yor (1964y)
+https://www.dropbox.com/scl/fi/mcvw4wo00frhcxb9m50oi/Yor-yor-o-zbek-film.mp4?rlkey=6f1wi189as5ek3vaac5qj3k20&st=hlmge6w7&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://files.itv.uz/uploads/content/poster/2024/03/05/3aabda314378a533334ccaf0e6ae083f-q-700x1002.jpeg",O'tgan kunlar(1969y)
+https://www.dropbox.com/scl/fi/fcm6prb405r6friya3qs7/O-tgan-kunlar.mp4?rlkey=1kpk7g157vien3a4j2404twcf&st=b6mxucb1&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://backend.book.uz/user-api/img/img-c18f8eda6055819104dfa134847dac2b.jpg",Shum bola(1977y)
+https://www.dropbox.com/scl/fi/55e1v37p7mqyj4kbszbui/Shumbola.mp4?rlkey=4y8nruzwpdgg3aquzb2o2dvii&st=d9p7mf7y&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://kinomarkaz.ucoz.com/_nw/0/72543674.jpg", Suyunchi (1982y)
+https://www.dropbox.com/scl/fi/23tl02cy37r3rcikfsbji/Suyunchi-o-zbek-film.mp4?rlkey=5avj94gwktxvkj94n4jwwaj3t&st=jfu6z878&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://mw.tvcom.uz/media/upload/tvmiddleware/posters/55768/pb_poster.webp",Kelinlar qo'zg'oloni (1985y)
+https://www.dropbox.com/scl/fi/d1dw8iuepro5hskwj5v04/Kelinlar-qo-zg-oloni.mp4?rlkey=3l08aoqibjrofi1ybr0bnkpng&st=m4w41ycv&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://mw.tvcom.uz/media/upload/tvmiddleware/posters/57164/pb_poster.webp",Tangalik bolalar(1990y)
+https://www.dropbox.com/scl/fi/b8p2i3h22albvwhxscsm2/Tangalik-bolalar.mp4?rlkey=732698e45wmkmah9rnn5hnf3v&st=rkb9ncy7&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZjNWIyYmQtNzA1NC00NGQ5LTgwMGYtYjk3MjIwOGFlYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Sotqin (2015y)
+https://www.dropbox.com/scl/fi/z427aakwb4a7n5awvpsa6/Sotqin-o-zbek-film.mp4?rlkey=5iaxpdrp3oq7xr5n30ejflmvu&st=401up8ts&dl=1
+#EXTINF:-1 group-title="O'zbek kino" tvg-logo="https://uzbfilm.ucoz.com/_ld/13/66561347.jpg",Qaynona(1978y)azb
+https://www.dropbox.com/scl/fi/pkq6eijnv0wa0q68s6eb4/QAYNONA-az-1978.mp4?rlkey=m58wvcdibotz3x47hkry4of9v&st=0kgu0x3p&dl=1
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1771132038_haq.jpg" group-title="uzbek-kino",Haqiqat uchun kurash
 https://w.uzbeklar.biz/film/haq.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1735458322_mrtaka.jpg" group-title="uzbek-kino",Mr. Kozyol
