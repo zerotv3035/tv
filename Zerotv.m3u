@@ -1,77 +1,326 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AndijonMTRK.uz@SD",Andijon MTRK (576i)
+#EXTM3U
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="AndijonMTRKi",Andijon MTRK (576i)
 https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Aqlvoy.uz@SD",Aqlvoy
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Aqlvoyi",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BIZCinema.uz@SD",BIZ Cinema (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZCinemai",BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 tvg-id="BIZCinema.uz@SD",BIZ Cinema
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZCinemai",BIZ Cinema
 https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BIZMusic.uz@SD",BIZ Music (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZMusici",BIZ Music (1080p)
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
-#EXTINF:-1 tvg-id="BIZMusic.uz@SD",BIZ Music
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZMusici",BIZ Music
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BIZTV.uz@SD",BIZ TV (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZTVi",BIZ TV (1080p)
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
-#EXTINF:-1 tvg-id="BIZTV.uz@SD",BIZ TV
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BIZTVi",BIZ TV
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bolajon.uz@SD",Bolajon (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Bolajoni",Bolajon (576p)
 https://stream8.cinerama.uz/1007/playlist.m3u8
-#EXTINF:-1 tvg-id="BuxoroMTRK.uz@SD",Buxoro MTRK (720p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="BuxoroMTRKi",Buxoro MTRK (720p)
 https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CheksizTV.uz@SD",Cheksiz TV
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="CheksizTVi",Cheksiz TV
 https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DasturxonTV.uz@SD",Dasturxon TV (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="DasturxonTVi",Dasturxon TV (576p)
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Dunyoboylab.uz@SD",Dunyo bo'ylab (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Dunyoboylabi",Dunyo bo'ylab (1080p)
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="FargonaMTRK.uz@SD",Farg'ona MTRK
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="FargonaMTRKi",Farg'ona MTRK
 https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FTV.uz@SD",FTV (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="FTVi",FTV (576p)
 https://stream8.cinerama.uz/1018/playlist.m3u8
-#EXTINF:-1 tvg-id="Kinoteatr.uz@SD",Kinoteatr (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Kinoteatri",Kinoteatr (1080p)
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz@SD",Madaniyat va ma'rifat (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Madaniyatvamarifati",Madaniyat va ma'rifat (576p)
 https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Mahalla.uz@SD",Mahalla (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Mahallai",Mahalla (576p)
 https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="MakonTV.uz@SD",Makon TV (576i)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="MakonTVi",Makon TV (576i)
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Milliy.uz@SD",Milliy (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Milliyi",Milliy (1080p)
 https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Milliy.uz@SD",Milliy (480p) [Not 24/7]
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Milliyi",Milliy (480p) [Not 24/7]
 http://milliy.tv/hls/index.m3u8
-#EXTINF:-1 tvg-id="MY5.uz@SD",MY5 (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="MY5i",MY5 (1080p)
 https://st.my5.media/hls/hd/index.m3u8
-#EXTINF:-1 tvg-id="MY5.uz@SD",MY5 (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="MY5i",MY5 (576p)
 https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Navo.uz@SD",Navo (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Navoi",Navo (576p)
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="NavoiyMTRK.uz@SD",Navoiy MTRK (576i)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="NavoiyMTRKi",Navoiy MTRK (576i)
 https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NurafshonTV.uz@SD",Nurafshon TV
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="NurafshonTVi",Nurafshon TV
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ozbekiston.uz@SD",O'zbekiston (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Ozbekistoni",O'zbekiston (576p)
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Ozbekiston24.uz@SD",O'zbekiston 24 (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Ozbekiston24i",O'zbekiston 24 (1080p)
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD",O'zbekiston Tarixi (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="OzbekistonTarixii",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD",Qaraqalpaqstan (720p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Qaraqalpaqstani",Qaraqalpaqstan (720p)
 https://stream8.cinerama.uz/1467/playlist.m3u8
-#EXTINF:-1 tvg-id="RenessansTV.uz@SD",Renessans TV (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="RenessansTVi",Renessans TV (576p)
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="SevimliTV.uz@SD",Sevimli TV (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="SevimliTVi",Sevimli TV (1080p)
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.uz@SD",Sport
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Sporti",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TaraqqiyotTV.uz@SD",Taraqqiyot TV
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="TaraqqiyotTVi",Taraqqiyot TV
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Toshkent.uz@SD",Toshkent (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Toshkenti",Toshkent (576p)
 https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="UzReportTV.uz@SD",UzReport TV (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="UzReportTVi",UzReport TV (1080p)
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Yoshlar.uz@SD",Yoshlar (1080p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="Yoshlari",Yoshlar (1080p)
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ZorTV.uz@SD",Zo'r TV (576p)
+#EXTINF:-1  group-title="2026-kinolari" tvg-id="ZorTVi",Zo'r TV (576p)
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789879041_arvoh.jpg" group-title="2026-kinolari",Arvoh va Firibgar
+https://a1.uzbeklar.biz/film/arvohvafiribgar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789360795_moana.jpg" group-title="2026-kinolari",Moana
+https://a1.uzbeklar.biz/film/moana.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789619414_xavflikelishuv.jpg" group-title="2026-kinolari",Xavfli kelishuv
+https://a1.uzbeklar.biz/film/xavflikelishuv.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789536679_sahro.jpg" group-title="2026-kinolari",Sahro farzandi
+https://a1.uzbeklar.biz/film/sahrofarzandi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789364111_yugurayotgan.jpg" group-title="2026-kinolari",Yugurayotgan ayol
+https://a1.uzbeklar.biz/film/yugurayotgan.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789294814_songgitong.jpg" group-title="2026-kinolari",So'nggi tong
+https://a1.uzbeklar.biz/film/songgitong.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789281262_shahardagi.jpg" group-title="2026-kinolari",Shahardagi ikki telba
+https://a1.uzbeklar.biz/film/shahardagiikkitelba.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789210411_toydagi.jpg" group-title="2026-kinolari",To'ydagi ov
+https://a1.uzbeklar.biz/film/toydagiov.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1789119302_qarol3.jpg" group-title="2026-kinolari",Qarol 3
+https://a1.uzbeklar.biz/film/qarol3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788948542_shivir.jpg" group-title="2026-kinolari",Shivirlovchi qotil
+https://a1.uzbeklar.biz/film/shivirlovchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788757056_suniy.jpg" group-title="2026-kinolari",Sun'iy juft
+https://a1.uzbeklar.biz/film/suniy2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788758030_ouk.jpg" group-title="2026-kinolari",Ouk Strit ko'chasining oxiri
+https://a1.uzbeklar.biz/film/oukstrit.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788757747_muzqaymoqchi.jpg" group-title="2026-kinolari",Muzqaymoqchi
+https://a1.uzbeklar.biz/film/muzqaymoqchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788757492_astral6.jpg" group-title="2026-kinolari",Astral 6: Ular allaqachon shu yerda
+https://a1.uzbeklar.biz/film/astral6.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788340893_kokkit.jpg" group-title="2026-kinolari",Ko'k kit o'yini
+https://a1.uzbeklar.biz/film/kokkit.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-09/1788323352_ona.jpg" group-title="2026-kinolari",Ona
+https://a1.uzbeklar.biz/film/ona2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1788150143_million.jpg" group-title="2026-kinolari",Million dollarlik tuzoq
+https://a1.uzbeklar.biz/film/milliondollarlik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1788082133_suvdagi.jpg" group-title="2026-kinolari",Yirtqichning o'g'zi
+https://a1.uzbeklar.biz/film/suvdagiqotil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782192877_qalbing.jpg" group-title="2026-kinolari",Qalbing chilparchin bo'ladi
+https://l.uzbeklar.biz/film/qalbing.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784441001_odi.jpg" group-title="2026-kinolari",Odisseya
+https://j.uzbeklar.biz/film/odisseya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787570773_songgiguvoh.jpg" group-title="2026-kinolari",So'nggi guvoh
+https://a1.uzbeklar.biz/film/songgiguvoh.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787570456_koloniya.jpg" group-title="2026-kinolari",Koloniya
+https://a1.uzbeklar.biz/film/koloniya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787471337_boron.jpg" group-title="2026-kinolari",Bo'ron chavandozi
+https://a1.uzbeklar.biz/film/boron2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787459010_songgi.jpg" group-title="2026-kinolari",So'nggi uy
+https://a1.uzbeklar.biz/film/songgiuy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787215952_pushti.jpg" group-title="2026-kinolari",Pushti quyonni ovlab
+https://a1.uzbeklar.biz/film/pushtiquyon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1787140761_songgichegara.jpg" group-title="2026-kinolari",So'nggi chegara
+https://a1.uzbeklar.biz/film/songgichegara.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786963667_boron.jpg" group-title="2026-kinolari",Balandrau: Bo'ron iskanjasida
+https://a1.uzbeklar.biz/film/balandrau.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786940399_pinok.jpg" group-title="2026-kinolari",Jilovsiz Pinokkio
+https://j.uzbeklar.biz/film/jilovsiz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786855156_yovuz.jpg" group-title="2026-kinolari",Yovuz O'liklar 3: Yonish
+https://j.uzbeklar.biz/film/yovuz3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786853721_islam.jpg" group-title="2026-kinolari",islam Maxachev: Chempionlar vatani
+https://j.uzbeklar.biz/film/islammaxachev.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786684973_toxtab.jpg" group-title="2026-kinolari",To'xtab qolmang, Ona!
+https://j.uzbeklar.biz/film/toxtabqolmang.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786257315_nurnberg.jpg" group-title="2026-kinolari",Nyurnberg
+https://j.uzbeklar.biz/film/nurnberg.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786175454_qonli.jpg" group-title="2026-kinolari",Qonli daryo
+https://j.uzbeklar.biz/film/qonlidaryo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786095054_yetti.jpg" group-title="2026-kinolari",Yetti snayperlar
+https://j.uzbeklar.biz/film/yettisnayper.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1786077166_tugishgan.jpg" group-title="2026-kinolari",Qarindosh
+https://j.uzbeklar.biz/film/qarindosh.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1785989716_super.jpg" group-title="2026-kinolari",Superqiz
+https://j.uzbeklar.biz/film/superqiz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1785730207_motor.jpg" group-title="2026-kinolari",Mashinalar shahri
+https://j.uzbeklar.biz/film/motorcity.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1785652289_ipman.jpg" group-title="2026-kinolari",Ip Man: Adolat uchun kurash
+https://j.uzbeklar.biz/film/ipman2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1785569005_qoyilmaqom.jpg" group-title="2026-kinolari",Qoyilmaqom sheriklar
+https://j.uzbeklar.biz/film/qoyilmaqom.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-08/1785568748_mandalor.jpg" group-title="2026-kinolari",Mandaloriyalik va Grogu
+https://j.uzbeklar.biz/film/mandalor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1785483644_haqiqat.jpg" group-title="2026-kinolari",Haqiqat oshkor bo'lgan kun
+https://j.uzbeklar.biz/film/haqiqatoshkor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784966436_koni.jpg" group-title="2026-kinolari",Koinot himoyachilari
+https://j.uzbeklar.biz/film/koinot.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1785387034_boronli.jpg" group-title="2026-kinolari",Bo'ronli dovon
+https://j.uzbeklar.biz/film/boronlidovon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1785385692_yashirin.jpg" group-title="2026-kinolari",Yashirin xonalar
+https://j.uzbeklar.biz/film/yashirinxonalar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1785309381_tungibiznes.jpg" group-title="2026-kinolari",Tungi biznes
+https://j.uzbeklar.biz/film/tungibiznes.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1785126475_qanotli.jpg" group-title="2026-kinolari",Qanotli ajal
+https://j.uzbeklar.biz/film/qanotliajal.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784888421_enola.jpg" group-title="2026-kinolari",Enola Holms 3
+https://j.uzbeklar.biz/film/enola3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784867768_izbel.jpg" group-title="2026-kinolari",Izabelga xabar
+https://j.uzbeklar.biz/film/izabelga.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784787277_songi.jpg" group-title="2026-kinolari",So'nggi nafasgacha
+https://j.uzbeklar.biz/film/songinafasgacha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784700166_temirrr.jpg" group-title="2026-kinolari",Temir o'pka
+https://j.uzbeklar.biz/film/temiropka.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784544696_gazab.jpg" group-title="2026-kinolari",Jonli g'azab
+https://j.uzbeklar.biz/film/gazabalangasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784439634_1784439694.jpg" group-title="2026-kinolari",Noma'lum ayol
+https://j.uzbeklar.biz/film/nomalumayol.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784440284_hechbolmasa.jpg" group-title="2026-kinolari",O'g'rining tavbasi 4
+https://j.uzbeklar.biz/film/ogriningtavbasi4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784265834_tannoz.jpg" group-title="2026-kinolari",Tannoz honim 2
+https://j.uzbeklar.biz/film/tanhozhonim2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784267819_maykl.jpg" group-title="2026-kinolari",Maykl
+https://j.uzbeklar.biz/film/maykl.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1784089160_roba.jpg" group-title="2026-kinolari",Robin Gudning o'limi
+https://j.uzbeklar.biz/film/robingudolimi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1783657020_usenemas.jpg" group-title="2026-kinolari",U sen emas
+https://j.uzbeklar.biz/film/usenemas.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1783575812_vasvasa.jpg" group-title="2026-kinolari",Obsessiya
+https://j.uzbeklar.biz/film/vasvasa.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1783055009_oshkoralik.jpg" group-title="2026-kinolari",Oshkoralik kuni
+https://j.uzbeklar.biz/film/oshkoralik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1782966785_farishta.jpg" group-title="2026-kinolari",Farishta
+https://j.uzbeklar.biz/film/farishta.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782368230_qilich.jpg" group-title="2026-kinolari",Qilich sohiblari: Sahro bo'roni
+https://l.uzbeklar.biz/film/qilich.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782027580_tergo.jpg" group-title="2026-kinolari",Tergovni qo'ylar olib boradi
+https://j.uzbeklar.biz/film/qoylar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-07/1782883720_zahar.jpg" group-title="2026-kinolari",Shirin zahar
+https://j.uzbeklar.biz/film/shirinzahar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781843415_och2.jpg" group-title="2026-kinolari",O'ch 2: Singil
+https://l.uzbeklar.biz/film/och2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782707222_1405.jpg" group-title="2026-kinolari",1405-reysning halokati
+https://l.uzbeklar.biz/film/chuqursuvlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781240744_london.jpg" group-title="2026-kinolari",Londondagi talonchilik
+https://l.uzbeklar.biz/film/london2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782452975_mars.jpg" group-title="2026-kinolari",Marsupilami izidan 2: Dengiz sayohati
+https://l.uzbeklar.biz/film/marsupilami.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782192203_jangchi.jpg" group-title="2026-kinolari",Yolg'iz jangchi
+https://l.uzbeklar.biz/film/yolgizjangchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1782113310_xavfli.jpg" group-title="2026-kinolari",Xavfli munosabat
+https://l.uzbeklar.biz/film/xavfli2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781946710_olovi.jpg" group-title="2026-kinolari",Jahannam olovi
+https://l.uzbeklar.biz/film/olovi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781501998_milliard.jpg" group-title="2026-kinolari",Milliard dollar izidan
+https://l.uzbeklar.biz/film/milliard.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781502080_panda2.jpg" group-title="2026-kinolari",Panda operatsiyasi 2: Sehrli qabila
+https://l.uzbeklar.biz/film/panda2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781238785_mumiyo.jpg" group-title="2026-kinolari",Mumiyo: Qabrdan qaytgan
+https://l.uzbeklar.biz/film/mumiyo2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1781069163_olim.jpg" group-title="2026-kinolari",O'lim chehrasi
+https://l.uzbeklar.biz/film/olimchehrasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1780894010_uyquchi.jpg" group-title="2026-kinolari",Uyquchi
+https://l.uzbeklar.biz/film/uyquchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1780893803_sahro.jpg" group-title="2026-kinolari",Sahro jangchisi
+https://l.uzbeklar.biz/film/sahrojangchisi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1780739513_jekrayan.jpg" group-title="2026-kinolari",Jek Rayan: Arvohlar urushi
+https://l.uzbeklar.biz/film/jekrayan2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1780636956_bollivudcha.jpg" group-title="2026-kinolari",Bollivudcha muhabbat
+https://l.uzbeklar.biz/film/bollivudcha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-06/1780464116_hokum.jpg" group-title="2026-kinolari",Hokum
+https://l.uzbeklar.biz/film/hokum.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777620983_amirtemur.jpg" group-title="2026-kinolari",Amir Temur
+https://l.uzbeklar.biz/film/amirtemur.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1779959340_kraken.jpg" group-title="2026-kinolari",Kraken
+https://l.uzbeklar.biz/film/kraken.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1779959116_jazolovchi.jpg" group-title="2026-kinolari",Jazolovchi: So'nggi qotillik
+https://l.uzbeklar.biz/film/jazolovchi2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1779363958_bilan.jpg" group-title="2026-kinolari",Yovuz bilan jang
+https://l.uzbeklar.biz/film/yovuzbilanjang.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778916853_kalevala.jpg" group-title="2026-kinolari",Kalevala: Kullervoning hikoyasi
+https://l.uzbeklar.biz/film/kalevala.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778648921_merosxor.jpg" group-title="2026-kinolari",Merosxo'r
+https://l.uzbeklar.biz/film/merosxor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778493701_ular.jpg" group-title="2026-kinolari",Ular seni o'ldiradi
+https://l.uzbeklar.biz/film/ularseni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778482527_li.webp" group-title="2026-kinolari",Li Kroninning mumiyosi
+https://l.uzbeklar.biz/film/limumiyosi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778481654_undan.jpg" group-title="2026-kinolari",Undan qolgan xotiralar
+https://l.uzbeklar.biz/film/undanqolgan.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1778218508_olovqamali.jpg" group-title="2026-kinolari",Olov qamali
+https://l.uzbeklar.biz/film/olovqamali.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777871074_momaqaldiroq.jpg" group-title="2026-kinolari",Momaqaldiroq dovoni
+https://l.uzbeklar.biz/film/momaqaldiroq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777873303_agentura.jpg" group-title="2026-kinolari",Agentura
+https://l.uzbeklar.biz/film/agentura.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777869912_mike.jpg" group-title="2026-kinolari",Mayk va Nik, Nik va Elis
+https://l.uzbeklar.biz/film/mike2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777708739_sniper.jpg" group-title="2026-kinolari",Sniper: Bayroqsiz
+https://l.uzbeklar.biz/film/sniper.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777621011_choqqi.jpg" group-title="2026-kinolari",Cho'qqi
+https://l.uzbeklar.biz/film/choqqi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777184435_qiyomat.jpg" group-title="2026-kinolari",Oxirgi imkon: Qiyomat loyihasi
+https://l.uzbeklar.biz/film/oxirgiimkon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777139481_pomirdagiov.jpg" group-title="2026-kinolari",Pomirdagi ov
+https://w.uzbeklar.biz/film/pomirdagi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777189787_maftunkor.jpg" group-title="2026-kinolari",Maftunkor ajal
+https://l.uzbeklar.biz/film/maftunkor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777139320_tofon.jpg" group-title="2026-kinolari",Yirtqich: To'fon
+https://w.uzbeklar.biz/film/tofon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1776619183_zararlangan.jpg" group-title="2026-kinolari",Zararlangan
+https://w.uzbeklar.biz/film/zararlangan.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1776361398_senga.jpg" group-title="2026-kinolari",Senga oshiqman
+https://r.uzbeklar.biz/film/sengaoshiqman.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1776187584_songgi.jpg" group-title="2026-kinolari",So'nggi chaqiriq
+https://r.uzbeklar.biz/film/songgichaqiriq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1775291426_mexicali.jpg" group-title="2026-kinolari",Mexicali
+https://r.uzbeklar.biz/film/mexicali.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1775129339_otkir.jpg" group-title="2026-kinolari",O'tkir viqorlilar: O'lmas odam
+https://r.uzbeklar.biz/film/otkirviqorilar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1774870302_chapaqay.jpg" group-title="2026-kinolari",Chapaqay
+https://r.uzbeklar.biz/film/chapaqay.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1774871470_urush.jpg" group-title="2026-kinolari",Urush mashinasi
+https://r.uzbeklar.biz/film/urushmashinasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1774591412_tavakkalchi.jpg" group-title="2026-kinolari",Tavakkalchi
+https://r.uzbeklar.biz/film/tavakkalchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773648395_jinoyat101.jpg" group-title="2026-kinolari",Jinoyat 101
+https://r.uzbeklar.biz/film/jinoyat101.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773568788_xushtak.jpg" group-title="2026-kinolari",Hushtak
+https://r.uzbeklar.biz/film/hushtak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773378460_yollanganagent.jpg" group-title="2026-kinolari",Yollangan agent
+https://w.uzbeklar.biz/film/yollanganagent.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773041503_menisev.jpg" group-title="2026-kinolari",Meni sev, meni sev
+https://w.uzbeklar.biz/film/menisevmenisev.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773041100_qorquv.jpg" group-title="2026-kinolari",Guruhlashuv: Umumiy yigвЂilish
+https://w.uzbeklar.biz/film/guruhlashuv.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773039772_meniquchoqlang.jpg" group-title="2026-kinolari",Meni quchoqlang ona
+https://w.uzbeklar.biz/film/meniquchoqlang.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1772705352_hiyla.jpg" group-title="2026-kinolari",Hiyla
+https://w.uzbeklar.biz/film/hiyla2026.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1772353895_boshpana.jpg" group-title="2026-kinolari",Boshpana
+https://w.uzbeklar.biz/film/boshpana.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1772175773_ombor.jpg" group-title="2026-kinolari",Sovuq ombor
+https://w.uzbeklar.biz/film/sovuqombor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1771482482_intiqom.jpg" group-title="2026-kinolari",Intiqom alangasi
+https://w.uzbeklar.biz/film/intiqomalangasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1770871827_yolgon.jpg" group-title="2026-kinolari",Yolg'on tuzog'ida
+https://w.uzbeklar.biz/film/yolgontuzogida.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1769576185_gren.jpg" group-title="2026-kinolari",Grenlandiya 2: Migratsiya
+https://w.uzbeklar.biz/film/grenlandiy2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1770357413_xavfli.jpg" group-title="2026-kinolari",Xavfli duet: Vayronkorlar jamoasi
+https://w.uzbeklar.biz/film/xavfliduet.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1769666172_suyak.jpg" group-title="2026-kinolari",28 yildan so'ng: Suyak ibodatxonasi
+https://w.uzbeklar.biz/film/suyak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1769575716_muzchegarasida.jpg" group-title="2026-kinolari",Muz chegarasida
+https://w.uzbeklar.biz/film/muzchegarasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1769423426_yirikolja.jpg" group-title="2026-kinolari",Yirik o'lja
+https://w.uzbeklar.biz/film/yirikolja.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1769422759_tatilda.jpg" group-title="2026-kinolari",TaвЂ™tilda tanishgan insonlar
+https://w.uzbeklar.biz/film/tatildatanishgan.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1768645224_oscar.jpg" group-title="2026-kinolari",Oskar Shou
+https://w.uzbeklar.biz/film/oskarshou.mp4
